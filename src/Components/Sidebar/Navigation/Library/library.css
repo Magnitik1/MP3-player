@@ -1,0 +1,32 @@
+.Library{
+  width: 80%;
+  margin-left: 20%;
+  height: 100%;
+}
+
+.plist{
+  position: absolute;
+  top: 12%;
+  left:27%;
+  z-index: 40;
+}
+
+.AddNew{
+  position: fixed;
+  color: white;
+  font-size: 75px;
+  left: calc(72% + 200px);
+  top: 80%;
+  background: #00B066;
+  border-radius: 100px;
+  width: 90px;
+  height: 90px;
+  z-index: 6;
+  color: rgba(224, 224, 224, 0.986);
+  animation: shadow-drop-2-center 0s cubic-bezier(0.95, 0.94, 0.8, 0.3) both;
+  border: none;
+}
+
+.AddNew:hover{
+  opacity:0.83;
+}

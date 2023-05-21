@@ -1,0 +1,41 @@
+.picture{
+    min-width: 205px;
+    width: 90%;
+    height: 36vh;
+    margin-left: 5%;
+    margin-top: -10%;
+    border-radius: 16px;
+}
+.titles{
+    color: white;
+    text-align: center;
+}
+.shuffle{
+    width: 33px;
+    height: 30px;
+    margin: 10px 35px;
+    background-image: url(../../pics/shuffle.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-color: #200758; 
+}
+.prev{
+    width: 33px;
+    height: 30px;
+    margin: 10px;
+    margin-left: 9%;
+    background-image: url(../../pics/prev.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-color: #200758; 
+}
+
+.next{
+    width: 33px;
+    height: 30px;
+    margin: 10px;
+    background-image: url(../../pics/next.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-color: #200758; 
+}

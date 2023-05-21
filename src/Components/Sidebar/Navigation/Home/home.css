@@ -1,0 +1,54 @@
+.Home{
+    width: 80%;
+    margin-left: 20%;
+}
+.boxes{
+    display: inline-block;
+    text-shadow: 2px 2px 3px black;
+    color: white;
+    z-index: 3;
+    margin-left: 2.4%;
+    border-radius: 16px;
+    width: 30%;
+    height: 100px;
+    margin-bottom: 30px;
+    background: #474747;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
+}
+.bigboxes{
+    display: inline-block;
+    text-shadow: 2px 2px 3px black;
+    color: rgb(255, 255, 255);
+    z-index: 3;
+    margin-left: 2.4%;
+    border-radius: 16px;
+    width: 30%;
+    height: 150px;
+    margin-bottom: 30px;
+    background: #474747;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 75px;
+}
+.darckBG{
+    background-color: rgb(0, 0, 0, 0.3);
+    border-radius: 3px;
+}
+.wrapper{
+    margin-left: 40px;
+}
+.bigboxes:hover{
+    opacity: 87%;
+}
+.boxes:hover{
+    opacity: 87%;
+}
+.settingsButton{
+    position: absolute;
+    margin-left:72%;
+    top:7%;
+    z-index: 4;
+    
+}

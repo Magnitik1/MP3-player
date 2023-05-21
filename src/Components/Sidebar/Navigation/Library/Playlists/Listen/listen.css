@@ -1,0 +1,18 @@
+.Listen{
+    width: 80%;
+    margin-left: 20%;
+}
+.choosesong{
+    margin-left: 110px;
+    padding-left: 10%;
+    border-radius: 15px;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 4%;
+    margin-top: 10px;
+    background: rgb(0, 0, 0, 0.3);
+}
+.choosesong:hover{ 
+    opacity: 0.8;
+}

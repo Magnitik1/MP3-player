@@ -1,0 +1,32 @@
+.favbg{
+    border-radius: 10px;
+    height:94px;
+    width:94px;
+    margin:15px;
+}
+.ptext{
+    padding-top: 43px;
+    font-size: 35px;
+}
+.Playlists{
+    width: 80%;
+    margin-left: 20%;
+    height: 100%;
+}
+.Playlists:hover{
+    opacity: 0.85;
+}
+.Playlists:hover .ptext{
+    color: rgb(253, 162, 162);
+}
+
+
+.mygreen:hover .ptext{
+    color: #86e4bd;
+}
+.delbutton{
+    margin-top: -89px;
+    margin-left:550px;
+    position: absolute;
+}
+

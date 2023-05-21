@@ -1,0 +1,30 @@
+.Search{
+  width: 80%;
+  margin-left: 20%;
+  height: 100%;
+}
+
+.sLine {
+  position: absolute;
+  width: 57%;
+  height: 48px;
+  left: 31%;
+  top: 15%;
+  z-index: 3;
+  background: #ffffff;
+  border-radius: 12px;
+  font-size: 30px;
+  padding-left: 45px;
+}
+.sPic {
+  position: absolute;
+  z-index: 5;
+  left: 31%;
+  top: 15.5%;
+}
+.sPic:hover {
+  color: rgba(39, 22, 22, 0.986);
+
+}
+
+

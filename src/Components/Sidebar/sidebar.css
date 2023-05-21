@@ -1,0 +1,20 @@
+.rect{
+min-width: 220px;
+min-height: 630px;
+position: fixed;
+width: 22%;
+height: 100%;
+left: 0px;
+top: 0px;
+background: #0E002C;
+z-index: 4;
+font-family: "Montserrat";
+font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat"; 
+    src: url("../Fonts/Montserrat-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
